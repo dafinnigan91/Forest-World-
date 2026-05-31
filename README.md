@@ -212,8 +212,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **James Lovelock** for the foundational Gaia hypothesis and DaisyWorld model
 - **Bennett et al.** for the open-source Python implementation framework
 
----
-
-**Exploring planetary regulation through biological feedback!** 🌍
-
-*Built with Python
